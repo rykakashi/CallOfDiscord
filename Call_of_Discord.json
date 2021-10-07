@@ -1,0 +1,36 @@
+{
+    "manifest": {
+        "author": "bərˈzərk#4035",
+        "name": "Call of Discord",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/895712218581200960\/895712243008823346\/img.jpeg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "statusbar": 855638016,
+        "accent": 838860800,
+        "background": -1308622848,
+        "mention_highlight": 1726770944
+    },
+    "colors": {
+        "primary_dark_300": -1282304,
+        "uikit_settings_item_text_color_dark": -1282304,
+        "primary_dark_360": -1282304,
+        "primary_dark_330": -1282304,
+        "primary_dark_400": -1282304,
+        "spotify": -1282304
+    },
+    "drawable_tints": {
+        "ic_activity_status_24dp": -1282304,
+        "ic_status_24dp": -1282304,
+        "ic_status_dnd_16dp": -16777216,
+        "ic_status_idle_16dp": -16318209,
+        "ic_status_invisible_16dp": -65536,
+        "ic_status_online_16dp": -1282304,
+        "ic_status_streaming_16dp": -9472,
+        "ic_sidebar_pins_off_dark_24dp": -1282304,
+        "ic_sidebar_notifications_on_dark_24dp": -1282304
+    }
+}
